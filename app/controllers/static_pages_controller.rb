@@ -6,4 +6,8 @@ class StaticPagesController < ApplicationController
   def index2
     render layout: 'index2'
   end
+
+  def index3
+    render layout: 'index3'
+  end
 end
