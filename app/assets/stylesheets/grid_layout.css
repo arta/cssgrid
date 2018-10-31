@@ -1,0 +1,18 @@
+.grid {
+  background: pink;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  /* grid-template-columns: repeat(3, 300px); */
+  /* grid-template-rows: 300px 400px 500px; */
+  /* gap: 1em; */
+  grid-column-gap: 1rem;
+  grid-row-gap: 2rem;
+  /* justify-content: center; */
+  /* justify-items: center; */
+ }
+.box {
+  height: 200px;
+  width: 200px;
+  background: red;
+  border: 1px dashed darkred;
+}
