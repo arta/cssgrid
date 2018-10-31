@@ -1,0 +1,11 @@
+• 10-31-18:
+grid_layout_controller:
+Grid Layout // Introduction:
+https://www.youtube.com/watch?v=Rpm7cSWjiGA
+
+
+
+• 10-28-18:
+static_pages_controller:
+CSS Grid Layout Crash Course
+https://www.youtube.com/watch?v=jV8B24rSN5o
