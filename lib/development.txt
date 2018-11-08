@@ -1,6 +1,13 @@
+• 11-8-18:
+grid_website_controller:
+CSS Grid Website series of 9 vids by Brian Haferkamp:
+https://youtu.be/7ZatsonhUFA
+
+
+
 • 10-31-18:
 grid_layout_controller:
-Grid Layout // Introduction:
+Grid Layout // Introduction by Brian Haferkamp:
 https://www.youtube.com/watch?v=Rpm7cSWjiGA
 
 
