@@ -2,14 +2,42 @@ body {
 	margin: 0;
 	font-family: 'Noto Sans', sans-serif;
 }
+
 // 12 column grid
 .grid-wrapper {
-	display: grid;
+	// display: grid;
 	grid-template-columns: repeat(12, 100px);
 	grid-column-gap: 30px;
 }
 
 // Navigation/Header
+.masthead {
+	background: #333;
+	color: #fff;
+	padding: .5rem 1rem;
+}
+.masthead-inner {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+.site-title {
+	h1 { margin: 0; }
+}
+.hor-menu {
+	display: flex;
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	li {
+		margin-left: 1rem;
+		a {
+			color: #fff;
+			text-decoration: none;
+			&:hover { color: rgba(#fff, 0.8) }
+		}
+	}
+}
 
 // Hero Image
 

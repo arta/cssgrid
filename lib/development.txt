@@ -2,7 +2,7 @@
 grid_website_controller:
 CSS Grid Website series of 9 vids by Brian Haferkamp:
 https://youtu.be/7ZatsonhUFA
-
+: what a fucking mess ... why do these ppl make edu vids? :) 
 
 
 • 10-31-18:
