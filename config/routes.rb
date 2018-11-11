@@ -1,4 +1,5 @@
 Rails.application.routes.draw do
+  get 'css_flexbox/index'
   get 'grid_website/index'
   get 'grid_layout/index'
   get 'static_pages/index1', to: 'static_pages#index1', as: :index1

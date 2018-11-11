@@ -1,0 +1,21 @@
+body { background: whitesmoke; margin: 0; }
+.container { background: gainsboro;
+	// display: flex;
+	// flex-flow: row nowrap;
+	// flex-direction: row;
+	// flex-wrap: nowrap;
+	// justify-content: flex-start;
+	// align-items: stretch;
+	// align-content: stretch;
+	//
+	// height: 50vh;
+}
+.item { background: pink; border: 1px red solid; padding: 1em;
+	// flex: 0 1 auto;
+	// flex-grow: 0;
+	// flex-shrink: 1;
+	// flex-basis: auto;
+	// align-self: stretch;
+	//
+	// &:nth-child(3) {align-self: center;}
+}

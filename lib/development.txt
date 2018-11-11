@@ -1,8 +1,15 @@
+• 11-11-18:
+css_flexbox_controller:
+: my own flexbox training range
+
+
+
 • 11-8-18:
 grid_website_controller:
 CSS Grid Website series of 9 vids by Brian Haferkamp:
 https://youtu.be/7ZatsonhUFA
-: what a fucking mess ... why do these ppl make edu vids? :) 
+: what a fucking mess ... why do these ppl make edu vids? :)
+
 
 
 • 10-31-18:
