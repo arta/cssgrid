@@ -60,7 +60,25 @@ body {
 }
 
 // 3-Up Features
-
+.features {
+	padding: 4em;
+	// display: flex;
+	// justify-content: center;
+}
+.features-inner {
+	display: flex;
+	max-width: 800px;
+	margin: 0 auto;
+	// justify-content: space-between;
+}
+.features-group {
+	flex: 0 1 30vw;
+	&:nth-child(2) { margin: 0 2rem; }
+	// flex: 0 1 30%;
+}
+.features-image {
+	img { width: 100%; }
+}
 // Call Out
 
 // Blog
