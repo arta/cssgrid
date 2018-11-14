@@ -1,4 +1,5 @@
 Rails.application.routes.draw do
+  get 'css_grid/index'
   get 'css_flexbox/index'
   get 'grid_website/index'
   get 'grid_layout/index'

@@ -13,4 +13,4 @@ Rails.application.config.assets.paths << Rails.root.join('node_modules')
 # folder are already added.
 # Rails.application.config.assets.precompile += %w( admin.js admin.css )
 Rails.application.config.assets.precompile += %w( index1.css index2.css
-  index3.css grid_layout.css grid_website.css css_flexbox.css)
+  index3.css grid_layout.css grid_website.css css_flexbox.css css_grid.css )
